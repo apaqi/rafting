@@ -1,4 +1,7 @@
-##ref： https://www.cnblogs.com/buttercup/p/12903126.html 
+##ref： https://www.cnblogs.com/buttercup/p/12903126.html
+## https://www.cnblogs.com/xybaby/p/10124083.html
+## https://zhuanlan.zhihu.com/p/77166786
+## https://blog.csdn.net/weixin_39860915/article/details/98863809
 # rafting
 ### Raft library implemented in Java, easy to understand
 
